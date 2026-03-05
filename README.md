@@ -1,4 +1,4 @@
-# alcohol-cancer-analysis# Alcohol Consumption and Cancer Incidence Analysis
+Alcohol Consumption and Cancer Incidence Analysis
 
 Objective  
 Investigate whether national alcohol consumption correlates with cancer incidence rates.
